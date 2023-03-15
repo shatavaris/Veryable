@@ -7,7 +7,7 @@ This React application is designed to render a list of users with color-coded ro
 Run with the following command:
 
 ```bash
-npm smart
+npm start
 ```
 
 ## Features
