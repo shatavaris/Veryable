@@ -2,7 +2,14 @@
 
 This React application is designed to render a list of users with color-coded roles and additional information about each user. With a built-in filter, you can easily sort the results based on a user's role.
 
-## Installation
+## Steps to run:
+
+Clone the repository.
+In the veryable_app folder, run the following:
+
+```bash
+npm install
+```
 
 Run with the following command:
 
