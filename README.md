@@ -11,7 +11,7 @@ In the veryable_app folder, run the following:
 npm install
 ```
 
-Run with the following command:
+Start the app with the following command:
 
 ```bash
 npm start
